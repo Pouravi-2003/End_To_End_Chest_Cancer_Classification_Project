@@ -3,7 +3,7 @@
  - [Data link](https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing)
 
 ## Workflow
-
+```bash
 1. update config.yaml
 2. update secrets.yaml
 3. update params.yaml
@@ -13,6 +13,7 @@
 7. update the pipeline
 8. update the main.py
 9. update the dvc.yaml
+```
 
 ## Git Command
 ```bash
